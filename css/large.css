@@ -1,0 +1,94 @@
+.nav-bar {
+  height: 90px;
+}
+
+.home-txt h1 {
+  font-size: 38px;
+}
+
+.home-txt p {
+  font-size: 24px;
+}
+
+.fas {
+  top: 30px;
+}
+
+.dropdown-menu {
+  margin-top: 15px;
+}
+
+.dropdown-menu .dropdown-item {
+  font-size: 28px;
+}
+
+.dropdown-menu .bg-nav-dark {
+  width: 160px;
+}
+
+.dropdown-menu .bg-nav-white {
+  width: 160px;
+}
+
+.dropdown-menu .bg-nav-shadow {
+  width: 160px;
+}
+
+.shadow-bg {
+  height: 90px;
+}
+
+.page-header h2 {
+  font-size: 40px;
+}
+
+.content {
+  width: 70%;
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 28px;
+}
+
+.carousel-caption h5 {
+  font-size: 24px;
+}
+
+.carousel-caption p {
+  font-size: 20px;
+}
+
+.adress h3 {
+  margin-bottom: 35px;
+}
+
+.adress h5 {
+  font-size: 30px;
+}
+
+.contact h5 {
+  font-size: 26px;
+}
+
+.contact a {
+  font-size: 26px;
+}
+
+.social-media h5 {
+  font-size: 26px;
+}
+
+.social-media a {
+  padding: 0 90px;
+  font-size: 28px;
+}
+
+footer {
+  font-size: 20px;
+}
+/*# sourceMappingURL=large.css.map */
